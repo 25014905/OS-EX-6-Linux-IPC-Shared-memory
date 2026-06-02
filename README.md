@@ -55,7 +55,9 @@ int main()
 ## OUTPUT
 <img width="992" height="630" alt="551415562-4bbcdc73-932d-4f77-81cf-bbbf14e8938a" src="https://github.com/user-attachments/assets/276a40f5-615e-4e4a-838b-ba296ab0385d" />
 
+DEVELOPED BY: MIRDULA D
 
+REGISTRATION NO. 212225040234
 
 # RESULT:
 The program is executed successfully.
