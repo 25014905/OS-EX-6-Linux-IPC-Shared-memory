@@ -53,7 +53,8 @@ int main()
 
 
 ## OUTPUT
-<img width="992" height="630" alt="551415562-4bbcdc73-932d-4f77-81cf-bbbf14e8938a" src="https://github.com/user-attachments/assets/276a40f5-615e-4e4a-838b-ba296ab0385d" />
+<img width="1600" height="605" alt="image" src="https://github.com/user-attachments/assets/1e7f1c7c-926d-4cfb-beff-178c4aa31115" />
+<img width="1600" height="608" alt="image" src="https://github.com/user-attachments/assets/7d8de88a-e67e-4c8b-b853-42bfb6cd65e1" />
 
 DEVELOPED BY: MIRDULA D
 
